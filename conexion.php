@@ -2,7 +2,7 @@
 
 function OpenCon()
 {
-    $dsn = 'mysql:dbname=inventario_libros;host=127.0.0.1';
+    $dsn = 'mysql:dbname=autos;host=127.0.0.1';
     $usuario = 'root';
     $contraseña = 'coronado';
 

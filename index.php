@@ -23,12 +23,12 @@
                            Menu Desplegable
                         </button>
                         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                           <a class="dropdown-item" href="autores/listar_autores.php">Listar Autos</a>
+                           <a class="dropdown-item" href="autores/listar_autos.php">Listar Autos</a>
                         </div>
                      </div>
                   </div>
                 </div>
-                </form>
+              </form>
               </div>
             </div>
           </div>
